@@ -1,4 +1,4 @@
-import icon from '../../assets/notification-icon.svg' 
+import icon from '../../assets/notification-icon.svg';
 // esse import vai funcionar como se fosse uma variavel, através do import 
 // eu vou procurar o que eu quero armazenar e dps eu coloco como atributo 
 // da tag... para isso eu uso o {atributo}.
@@ -11,4 +11,4 @@ function NotificationButton(){
   )
 }
 
-export default NotificationButton
+export default NotificationButton;

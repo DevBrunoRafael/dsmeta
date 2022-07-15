@@ -1,4 +1,4 @@
-import logo from '../../assets/logo.svg'
+import logo from '../../assets/logo.svg';
 
 function Header (){
   return(
@@ -17,4 +17,4 @@ function Header (){
   )
 }
 
-export default Header
+export default Header;
