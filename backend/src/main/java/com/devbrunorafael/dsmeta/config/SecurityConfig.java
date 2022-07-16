@@ -1,4 +1,4 @@
-package com.devbrunorafael.dsmeta.Config;
+package com.devbrunorafael.dsmeta.config;
 
 import java.util.Arrays;
 
