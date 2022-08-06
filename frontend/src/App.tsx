@@ -5,6 +5,9 @@ function App() {
   return (
     <> 
       <Header/>
+      {/* <header>
+        <h1>FUNCIONÁRIOS CADASTRADOS</h1>
+      </header> */}
       <main>
         <section id="sales">
           <div className="dsmeta-container">

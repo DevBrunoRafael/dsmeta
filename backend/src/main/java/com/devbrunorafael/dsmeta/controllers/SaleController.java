@@ -22,7 +22,7 @@ public class SaleController {
             @RequestParam(value = "minDate", defaultValue = "") String minDate,
             @RequestParam(value = "maxDate", defaultValue = "") String maxDate
     ){
-        return service.findSales(minDate, maxDate);
+        return this.service.findSales(minDate, maxDate);
     }
 
 }
